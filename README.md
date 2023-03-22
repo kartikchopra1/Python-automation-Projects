@@ -1,2 +1,1 @@
-I am editing the README file. Adding some more details about the project description# IT-automation-assingnment
-new
+List of code,to Automate manual task in python
